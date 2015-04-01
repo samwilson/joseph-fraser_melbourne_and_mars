@@ -5,7 +5,7 @@
 					<dc:language xsi:type="dcterms:RFC4646">en</dc:language>
 					<dc:title>Melbourne and Mars</dc:title>
 					<dc:source>http://en.wikisource.org/wiki/Melbourne_and_Mars</dc:source>
-					<dc:date opf:event="ops-publication" xsi:type="dcterms:W3CDTF">2015-03-30T08:19:57+00:00</dc:date>
+					<dc:date opf:event="ops-publication" xsi:type="dcterms:W3CDTF">2015-04-01T08:27:11+00:00</dc:date>
 					<dc:rights>http://creativecommons.org/licenses/by-sa/3.0/</dc:rights>
 					<dc:rights>http://www.gnu.org/copyleft/fdl.html</dc:rights>
 					<dc:contributor opf:role="bkp">Wikisource</dc:contributor><dc:creator opf:role="aut">Joseph Fraser</dc:creator><dc:date opf:event="original-publication">1889</dc:date><meta name="cover" content="title" /></metadata>
