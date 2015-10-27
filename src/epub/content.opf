@@ -34,15 +34,10 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:url.wikipedia">WIKILINK</meta>
 		<dc:creator id="author">Joseph Fraser</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.wikipedia" refines="#author">WIKILINK</meta>
+		<meta property="file-as" refines="#author">Fraser, Joseph</meta>
+		<meta property="se:name.person.full-name" refines="#author">Joseph Fraser</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikisource.org/wiki/Author:Joseph_Fraser</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
@@ -88,7 +83,6 @@
 		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
@@ -96,7 +90,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
