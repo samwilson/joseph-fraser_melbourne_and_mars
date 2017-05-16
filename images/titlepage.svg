@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 1050">
-	<text style="font-size:93.56725311px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="130">A NOVEL WITH A</text>
-	<text style="font-size:93.56725311px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="230">VERY VERY LONG AND</text>
-	<text style="font-size:93.56725311px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="330">DETAILED TITLE</text>
-	<text style="font-size:70.17543793px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="490">AUTHOR 1</text>
-	<text style="font-size:70.17543793px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="570">AUTHOR 2</text>
-	<text style="font-size:42.5079689px;font-style:italic;fill:#000;font-family:OFL Sorts Mill Goudy" text-anchor="middle" x="700" y="760">translated by</text>
-	<text style="font-size:46.78362656px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="820">CONTRIBUTOR 1</text>
-	<text style="font-size:42.5079689px;font-style:italic;fill:#000;font-family:OFL Sorts Mill Goudy" text-anchor="middle" x="700" y="920">introduction by</text>
-	<text style="font-size:46.78362656px;fill:#000;font-family:League Spartan;letter-spacing:5px" text-anchor="middle" x="700" y="980">CONTRIBUTOR 2</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" version="1.1" viewBox="0 0 1400 1050" sodipodi:docname="titlepage.svg" inkscape:version="0.91 r13725">
+	<metadata id="metadata26">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="defs24"/>
+	<sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview22" objecttolerance="10" pagecolor="#ffffff" showgrid="false" inkscape:current-layer="svg2" inkscape:cx="424.3775" inkscape:cy="466.93897" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1056" inkscape:window-maximized="1" inkscape:window-width="1855" inkscape:window-x="1985" inkscape:window-y="24" inkscape:zoom="0.42142857"/>
+	<text id="text10" style="font-size:70.17543793px;font-family:'League Spartan';letter-spacing:5px;text-anchor:middle;fill:#000000" x="700.3299" y="682.20331">
+		<tspan id="tspan3374" style="font-size:75px">JOSEPH FRAZER</tspan>
+	</text>
+	<text id="text3358" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="320.33899" y="364.2373" sodipodi:linespacing="125%" xml:space="preserve">
+		<tspan id="tspan3360" x="320.33899" y="364.2373" sodipodi:role="line"/>
+	</text>
+	<text id="text3362" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="701.50366" y="238.47461" sodipodi:linespacing="125%" xml:space="preserve">
+		<tspan id="tspan3364" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'" x="701.50366" y="238.47461" sodipodi:role="line">MELBOURNE</tspan>
+		<tspan id="tspan3368" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.25px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'" x="701.50366" y="355.66211" sodipodi:role="line">AND</tspan>
+		<tspan id="tspan3372" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'" x="701.50366" y="472.84961" sodipodi:role="line">MARS</tspan>
+	</text>
+	<text id="text3378" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="650.37781" y="752" sodipodi:linespacing="125%" xml:space="preserve">
+		<tspan id="tspan3380" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'" x="650.37781" y="752" sodipodi:role="line">1889</tspan>
+	</text>
 </svg>

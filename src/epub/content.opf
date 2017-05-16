@@ -17,9 +17,9 @@
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">Melbourne and Mars</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
+		<meta property="file-as" refines="#title">Melbourne and Mars</meta>
+		<dc:subject id="subject-1">Utopia</dc:subject>
+		<dc:subject id="subject-2">Science Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
 		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
 		<meta property="se:subject">TAG</meta>
@@ -29,18 +29,17 @@
 			LONGDESCRIPTION
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en</dc:language>
+		<dc:source>https://en.wikisource.org/wiki/Melbourne_and_Mars</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:url.wikipedia">WIKILINK</meta>
 		<dc:creator id="author">Joseph Fraser</dc:creator>
 		<meta property="file-as" refines="#author">Fraser, Joseph</meta>
 		<meta property="se:name.person.full-name" refines="#author">Joseph Fraser</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikisource.org/wiki/Author:Joseph_Fraser</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Charles Blanchard</dc:contributor>
+		<meta property="file-as" refines="#artist">Blanchard, Charles</meta>
+		<meta property="se:url.wikipedia" refines="#artist"></meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
